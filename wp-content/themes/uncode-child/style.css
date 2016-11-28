@@ -1,0 +1,18 @@
+/*
+Theme Name: Uncode Child
+Description: Child theme for Uncode theme
+Author: Undsgn™
+Author URI: http://www.undsgn.com
+Template: uncode
+Version: 1.0.0
+Text Domain: uncode
+*/
+
+@font-face{
+font-family: ‘DecimaRound’;
+src: url('folder/WebFont.eot');
+src: url('folder/WebFont.eot?#iefix') format('embedded-opentype'),
+url('folder/WebFont.woff') format('woff'),
+url('folder/WebFont.ttf') format('truetype'),
+url('folder/WebFont.svg#webfont') format('svg');
+}
